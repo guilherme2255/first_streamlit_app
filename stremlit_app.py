@@ -1,2 +1,2 @@
 import streamlit
-steamlit.title("My ass new")
+streamlit.title("My ass new")
